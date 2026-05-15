@@ -5,16 +5,18 @@ A minimal, efficient todo list application for the terminal, written in C. Tiny 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/tiny-tui-todo.git
+git clone https://github.com/evelynswarton/tiny-tui-todo.git
 cd tiny-tui-todo
 make
-sudo make install  # or just run `./tiny-tui-todo` if you prefer not to install
+./todo
+```
+```
 ```
 
 ## Usage
 
 ```bash
-tiny-tui-todo
+./todo
 ```
 
 ## Features
@@ -26,7 +28,7 @@ tiny-tui-todo
 
 ## For Productive Programmers
 
-- **Zero Dependencies**: Just standard POSIX C libraries.
+- **Minimal Dependencies**: Just standard POSIX C libraries.
 - **Fast Startup**: Instantly available in your terminal.
 - **Highly Customizable**: Easy to extend with your own C code.
 
