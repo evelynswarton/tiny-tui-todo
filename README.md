@@ -1,6 +1,6 @@
 # tiny-tui-todo
 
-A minimal, efficient todo list application for the terminal, written in C.
+A minimal, efficient todo list application for the terminal, written in C. Tiny scope, tiny codebase, minimal dependencies.
 
 ## Installation
 
